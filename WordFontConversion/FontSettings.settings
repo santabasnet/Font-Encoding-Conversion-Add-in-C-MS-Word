@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WordFontConversion" GeneratedClassName="FontSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="remoteURL2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8801/wordPluginFontConvert</Value>
+    </Setting>
+    <Setting Name="remoteURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://103.198.9.169/saayak-web-interface/wordPluginFontConvert</Value>
+    </Setting>
+    <Setting Name="serviceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FontConversion</Value>
+    </Setting>
+    <Setting Name="serviceRenewURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://hijje.com/</Value>
+    </Setting>
+    <Setting Name="servicePaymentURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://hijje.com/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
