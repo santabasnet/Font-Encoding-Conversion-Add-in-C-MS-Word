@@ -45,5 +45,12 @@ This tool has been developed as an add-in for MS Word. It uses a remote REST API
 
 ### Output: 
 
+The ouput after installation in MS Word is shown here.
+![Sample Output Screen in MS Word](./assets/sample_output.png)
+
+### Further:
+
+If really like to go deep in our font conversion work, you can follow this paper. 
+![Font Conversion Paper](./assets/Font_Unification_Santa.pdf)
 
 
